@@ -27,7 +27,9 @@ Requer MongoDB rodando em `mongodb://localhost:27017`.
 
 Erros: 400 (ID inválido), 404 (não encontrado), 409 (placa duplicada), 422 (dados inválidos).
 
-## Autores
+## Autores 
+## ALUNOS 
+## GRUPOS
 
 - Carlos Henrique Cardoso Da Silva Rocha
 - Daniel Carvalho Silva
